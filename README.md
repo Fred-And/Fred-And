@@ -7,4 +7,4 @@
 ### Projects I'm currently working on...
 
 > [Speech Recognition for a Learning App.](https://github.com/Fred-And/stspeech)
->   As my area of expertise is the Aviation area, you won't be surprises to know that this application is for the aviation segment, mainly for aircraft pilots who are learning how to communicate using standard Phrseology.
+> - As my area of expertise is the Aviation area, you won't be surprises to know that this application is for the aviation segment, mainly for aircraft pilots who are learning how to communicate using standard Phrseology.
