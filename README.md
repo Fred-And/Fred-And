@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and OpenCV**
 
-- 📝 I regularly write articles on Medium and LinkedIn
+- 📝 I regularly write articles on [Medium](https://medium.com/@fred_and) and [LinkedIn](https://www.linkedin.com/in/fredericocandrade/)
 
 - 📫 How to reach me **fredand13@outlook.com**
 
