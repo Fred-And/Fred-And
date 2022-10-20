@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">I'm a Data Science and AI / Machine Learning Expert wannabe</h3>
 
+- 🔭 Take a look at my last project! 
+
 - 🌱 I’m currently learning **Django and OpenCV**
 
 - 📝 I regularly write articles on Medium and LinkedIn
