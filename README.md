@@ -3,15 +3,12 @@
 
 - 🌱 I’m currently learning **Django and OpenCV**
 
-- 📝 I regularly write articles on [https://medium.com/@fred_and](https://medium.com/@fred_and)
+- 📝 I regularly write articles on Medium and LinkedIn
 
 - 📫 How to reach me **fredand13@outlook.com**
 
 - ⚡ Fun fact **I'm also an Air Traffic Controller and Musician!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
