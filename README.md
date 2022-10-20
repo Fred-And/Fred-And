@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">I'm a Data Science and AI / Machine Learning Expert wannabe</h3>
 
-- 🔭 Take a look at my last project! 
+- 🔭 I’m currently working on [Real State Price Prediction](https://github.com/Fred-And/linear_regression)
 
 - 🌱 I’m currently learning **Django and OpenCV**
 
