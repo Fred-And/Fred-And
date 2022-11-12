@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">I'm a Data Science and AI / Machine Learning professional!</h3>
 
-- 🔭 I’m currently working on [Real State Price Prediction](https://github.com/Fred-And/linear_regression)
-
-- 🌱 I’m currently learning **Django and OpenCV**
+- 🔭 I’m currently working on:
+  - [Real State Price Prediction](https://github.com/Fred-And/gc_real_state)
+  - [Telecom Company Churn Prediction](https://github.com/Fred-And/novaphone)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@fred_and) and [LinkedIn](https://www.linkedin.com/in/fredericocandrade/)
 
