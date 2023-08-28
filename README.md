@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
  
-<h3 align="center">I'm a Data Science and AI / Machine Learning professional!</h3>
+<h3 align="center">I'm a Data Science and Computer Vision Specialist!</h3>
 
 - 🔭 I’m currently working on:
-  - [Real State Price Prediction](https://github.com/Fred-And/gc_real_state)
-  - [Telecom Company Churn Prediction](https://github.com/Fred-And/novaphone)
-
+  - [SAF-T validator](https://github.com/Fred-And/saf-t_validator)
+ 
 - 📝 I regularly write articles on [Medium](https://medium.com/@fred_and) and [LinkedIn](https://www.linkedin.com/in/fredericocandrade/)
 
 - 📫 How to reach me **fredand13@outlook.com**
 
-- ⚡ Fun fact **I'm also an Air Traffic Controller and Musician!**
+- ⚡ Fun fact **I'm also a Musician and a former Air Traffic Controller!**
 
 
 <h3 align="left">Connect with me:</h3>
