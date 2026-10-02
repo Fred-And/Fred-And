@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Fred</h1>
- 
-<h3 align="center">I'm a Fullstack Software Developer!</h3>
+# Hi 👋, I'm Fred
 
-- 📫 How to reach me **fredand13@outlook.com**
+**Software Engineer @ InvoiceXpress** · Lisbon  
+Fullstack · React · Rails · AWS · AI / MCP
 
-- ⚡ Fun fact **I'm also a Musician and a former Air Traffic Controller!**
+Building API-first apps, migrating Rails → React, and shipping MCP tools that help Support and Sales talk to InvoiceXpress in natural language.
 
+- 📫 **fredand13@outlook.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/fredericocandrade/)
+- ✍️ [Medium](https://medium.com/@fred_and)
+- ⚡ Musician and former Air Traffic Controller
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fredericocandrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fredericocandrade/" height="30" width="40" /></a>
-<a href="https://medium.com/@fred_and" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fred_and" height="30" width="40" /></a>
-</p>
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -47,9 +45,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" alt="Rspec" width="40" height="40"/>
   
 </p>
-<br>
+
+## Stats
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fred-And&show_icons=true&locale=en" alt="Fred-And"/></p>
 <p aling="center">&nbsp;<img align="center" src = "https://komarev.com/ghpvc/?username=Fred-And&color=blue"/></p>
-
- 
