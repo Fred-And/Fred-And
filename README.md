@@ -45,8 +45,3 @@ Building API-first apps, migrating Rails → React, and shipping MCP tools that 
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original-wordmark.svg" alt="Rspec" width="40" height="40"/>
   
 </p>
-
-## Stats
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fred-And&show_icons=true&locale=en" alt="Fred-And"/></p>
-<p aling="center">&nbsp;<img align="center" src = "https://komarev.com/ghpvc/?username=Fred-And&color=blue"/></p>
